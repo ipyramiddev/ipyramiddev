@@ -29,15 +29,5 @@ I am a passionate FullStack Developer with strong technical skills and a commitm
 # 📊 Here is my GitHub stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TienHwng" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ipyramiddev" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TienHwng&layout=compact&langs_count=8&card_width=220" />
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake.svg" />
-</picture>
-
