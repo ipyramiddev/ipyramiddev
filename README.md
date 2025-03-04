@@ -1,4 +1,4 @@
-# Hi there, I'm Leo 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+Roy's+GitHub+Profile)
 
@@ -22,32 +22,22 @@ I am a passionate FullStack Developer with strong technical skills and a commitm
 - Unit Testing and BDD
 - Project Management and Team Coordination
 
-## 💻 Projects
-### Project 1: [Awesome Project](https://github.com/your-username/awesome-project)
-A brief description of the project and its purpose. Highlight your contributions and the technologies used.
-
-### Project 2: [Another Cool Project](https://github.com/your-username/another-cool-project)
-A brief description of the project and its purpose. Highlight your contributions and the technologies used.
-
 ## 📫 Contact Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [your-twitter-handle](https://twitter.com/your-handle)
+- **Email:** [leo.lunamedina1230@gmail.com](mailto:leo.lunamedina1230@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/leo-luna-m12/](https://www.linkedin.com/in/leo-luna-m12/)
 
-## 🌱 I’m currently learning
-- Advanced React Patterns
-- Serverless Architecture
-- GraphQL
+# 📊 Here is my GitHub stats:
 
-## 🎯 Goals for 2025
-- Contribute to open-source projects
-- Enhance my skills in cloud computing and microservices
-- Share knowledge through tech blogs and community talks
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TienHwng" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TienHwng&layout=compact&langs_count=8&card_width=220" />
+</a>
 
-## 🧩 Fun Fact
-I enjoy exploring the intersection of technology and healthcare, with a curiosity about medical storage conditions and general health knowledge.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-Feel free to connect with me on any of the platforms mentioned above or check out my projects!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake.svg" />
+</picture>
 
